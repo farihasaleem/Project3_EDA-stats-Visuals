@@ -19,4 +19,5 @@ Goal: understand which customers subscribe to a term deposit.
 - Power BI dashboard
 - Model (duration excluded: data leakage)
 <img width="1375" height="773" alt="image" src="https://github.com/user-attachments/assets/719285d2-3efb-4227-bc78-033c284428fb" />
-<img width="1370" height="688" alt="image" src="https://github.com/user-attachments/assets/9bff02f1-38d4-4ed1-8a30-95518b1e08a9" />
+<img width="1373" height="759" alt="image" src="https://github.com/user-attachments/assets/b8bbee52-945e-43d4-8088-6a185d162ca6" />
+
